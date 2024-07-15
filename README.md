@@ -1,6 +1,4 @@
-
 # Learn_NextJS
-NextJS 공식문서 Learn 
 =======
 ## Next.js App Router Course - Starter
 
